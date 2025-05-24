@@ -80,4 +80,30 @@ header img{
   .badge:last-of-type {
     background-color: #495057;
   }
-  
+  footer {
+  background-color: #2e7d32;
+  color: #fff;
+  padding: 30px 20px;
+  border-radius: 20px 20px 0 0;
+  box-shadow: 0px -4px 12px rgba(0, 0, 0, 0.05);
+  max-width: 800px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+footer h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+footer a {
+  color: #c8facc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
